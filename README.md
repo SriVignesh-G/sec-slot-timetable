@@ -111,3 +111,6 @@ Execute the program
 
 ![timetable output](./timetableoutput.png)
 
+# Result:
+ thus the slot timetable has developed successfully.
+ 
